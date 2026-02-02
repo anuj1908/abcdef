@@ -1,0 +1,86 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[left=0.75in,top=0.6in,right=0.75in,bottom=0.6in]{geometry}
+\usepackage{enumitem}
+\usepackage{hyperref}
+
+\begin{document}
+
+\begin{center}
+    {\huge \textbf{AYUSH KUMAR SINGH}} \\
+    LinkedIn: \href{https://www.linkedin.com}{www.linkedin.com/in/ayush-kumar-singh} \\
+    GitHub: \href{https://www.github.com/Ayushsingh386}{www.github.com/Ayushsingh386} \\
+    Email: ayushsingh43723@gmail.com \\
+    Mobile: [Your Mobile Number]
+\end{center}
+
+\section*{EDUCATION}
+\hrule
+\vspace{0.2cm}
+\textbf{Bharatiya Vidya Bhavan's College} \hfill Mumbai, India \\
+Bachelor of Science Computer Science; CGPA: 9.54 \hfill June 2022--April 2025
+
+\section*{SKILLS SUMMARY}
+\hrule
+\vspace{0.2cm}
+\begin{itemize}[leftmargin=0.15in, label={}]
+    \item \textbf{Languages:} C++, Javascript, Python, PHP
+    \item \textbf{Frameworks and Libraries:} ReactJS, NodeJS, ExpressJS
+    \item \textbf{Databases:} SQL, MongoDB, PostgreSQL
+    \item \textbf{Tools:} Git, GitHub
+    \item \textbf{Platforms:} Amazon Web Services, Google Cloud Platform
+    \item \textbf{Soft Skills:} Report Building, People Management, Excellent Communication
+\end{itemize}
+
+\section*{WORK EXPERIENCE}
+\hrule
+\vspace{0.2cm}
+\textbf{FREELANCE SOFTWARE AND WEB DEVELOPER} \hfill [Dates] \\
+\begin{itemize}[leftmargin=0.15in]
+    \item Designed and deployed custom web applications and software solutions for diverse clients.
+    \item Managed full project lifecycles from requirement gathering to final deployment and maintenance.
+\end{itemize}
+
+\textbf{CHESS COACH} \hfill [Dates] \\
+\begin{itemize}[leftmargin=0.15in]
+    \item Taught strategic gameplay, opening theory, and endgame tactics to students of various skill levels.
+    \item Analyzed competitive games to identify weaknesses and developed personalized training plans.
+\end{itemize}
+
+\section*{PROJECTS}
+\hrule
+\vspace{0.2cm}
+
+\textbf{Farmzy}
+\begin{itemize}[leftmargin=0.15in]
+    \item Developed a digital platform for agricultural management and resource tracking.
+    \item Implemented user-centric features to streamline farming operations and data monitoring.
+\end{itemize}
+
+\textbf{Chess Website}
+\begin{itemize}[leftmargin=0.15in]
+    \item Developed a web-based chess platform allowing users to play and practice moves online.
+    \item Implemented game logic and a responsive user interface for a seamless player experience.
+\end{itemize}
+
+\textbf{Law Integration Project}
+\begin{itemize}[leftmargin=0.15in]
+    \item Created a digital solution to streamline legal processes and improve access to legal resources.
+    \item Focused on organized data management and user-friendly navigation for legal documents.
+\end{itemize}
+
+\textbf{Blind Navigation}
+\begin{itemize}[leftmargin=0.15in]
+    \item Designed a navigation aid to assist visually impaired individuals in navigating surroundings.
+    \item Integrated sensory or mapping technology to provide real-time guidance and feedback.
+\end{itemize}
+
+\section*{CERTIFICATIONS}
+\hrule
+\vspace{0.2cm}
+\textbf{[NAME OF CERTIFICATION] | CERTIFICATE} \hfill [Date]
+\begin{itemize}[leftmargin=0.15in]
+    \item [Space for certification details]
+    \item [Space for certification details]
+\end{itemize}
+
+\end{document}
