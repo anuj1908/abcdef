@@ -1,42 +1,53 @@
-\documentclass[a4paper,10pt]{article}
-\usepackage[left=0.75in,top=0.6in,right=0.75in,bottom=0.6in]{geometry}
+\documentclass[a4paper,11pt]{article}
+\usepackage[left=0.7in,top=0.6in,right=0.7in,bottom=0.6in]{geometry}
 \usepackage{enumitem}
+\usepackage{titlesec}
+
+\titleformat{\section}{\large\bfseries}{}{0em}{}[\titlerule]
+\titlespacing{\section}{0pt}{10pt}{5pt}
 
 \begin{document}
 
 \begin{center}
     {\huge \textbf{PRATIKSHA ANIL MAGARE}} \\
-    Email: pratikshamagare0707@gmail.com \\
-    Mobile: +91 7757810754
+    \vspace{2pt}
+    Email: pratikshamagare0707@gmail.com \ $|$ \ Mobile: +91 7757810754 \\
+    Location: Maharashtra, India
 \end{center}
 
-\section*{OBJECTIVE}
-\hrule
-\vspace{0.2cm}
-Dedicated professional with strong fundamental computer knowledge. Seeking an entry-level position to utilize my skills in Excel, Tally, and GST while continuing to advance my professional certifications.
+\section*{CAREER OBJECTIVE}
+Highly motivated individual with a strong foundation in computer applications and accounting. Seeking a role where I can utilize my Advanced Excel and Tally skills to contribute to organizational growth while finalizing my professional certifications.
 
 \section*{TECHNICAL SKILLS}
-\hrule
-\vspace{0.2cm}
 \begin{itemize}[leftmargin=0.15in]
-    \item \textbf{Computer Fundamentals:} Proficient in Basic Computer Operations and MS Office.
-    \item \textbf{Data Management:} Advanced Excel (Functions, Data Analysis, and Reporting).
-    \item \textbf{Accounting:} Familiar with Tally and GST principles (Pursuing Certification).
+    \item \textbf{Office Automation:} MS Word, MS PowerPoint, and Advanced Excel (VLOOKUP, Pivot Tables, Formulas).
+    \item \textbf{Accounting Tools:} Tally Prime (Pursuing), GST Compliance basics, and Digital Bookkeeping.
+    \item \textbf{General IT:} Internet Research, Email Management, Windows OS, and Typing (English/Marathi).
 \end{itemize}
 
 \section*{EDUCATION \& CERTIFICATIONS}
-\hrule
-\vspace{0.2cm}
-\textbf{Basic Computer Course Certificate} \hfill Completed \\
-\textbf{Advanced Excel Certification} \hfill Exam Completed (Awaiting Certificate) \\
-\textbf{Tally \& GST Certification} \hfill In Progress
+\textbf{Basic Computer Course Certificate} \hfill \textit{Completed} \\
+\textbf{Advanced Excel Specialization} \hfill \textit{Exam Completed (Certificate Awaited)} \\
+\textbf{Tally \& GST Professional Course} \hfill \textit{In Progress} \\
+\textbf{[Your Highest Degree, e.g., B.Com]} \hfill \textit{[Year]}
+
+\section*{KEY PROJECTS}
+\begin{itemize}[leftmargin=0.15in]
+    \item \textbf{Data Management Project:} Developed an automated Excel dashboard to track and analyze personal/small business expenses.
+    \item \textbf{Digital Literacy:} Completed 100+ hours of training in computer fundamentals and workplace productivity.
+\end{itemize}
 
 \section*{STRENGTHS}
-\hrule
-\vspace{0.2cm}
-\begin{itemize}[leftmargin=0.15in]
-    \item Quick learner with a strong interest in digital accounting.
-    \item Detail-oriented with a focus on data accuracy.
+\begin{itemize}[leftmargin=0.15in, itemsep=0pt]
+    \item Strong analytical mindset with high attention to detail.
+    \item Efficient in multi-tasking and managing data-heavy workloads.
+    \item Eager to learn and adapt to new technologies and accounting standards.
+\end{itemize}
+
+\section*{PERSONAL DETAILS}
+\begin{itemize}[leftmargin=0.15in, label={}]
+    \item \textbf{Languages:} Marathi, Hindi, English.
+    \item \textbf{Interests:} Technical learning, Data Entry, and Organizational management.
 \end{itemize}
 
 \end{document}
